@@ -1,0 +1,19 @@
+{
+  "name": "spa-calendario-tarefas",
+  "version": "1.0.0",
+  "description": "O Projeto consiste na criação de um SPA de calendario de tarefas do dia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoOliveira16/spa-calendario-tarefas.git"
+  },
+  "author": "Bruno Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoOliveira16/spa-calendario-tarefas/issues"
+  },
+  "homepage": "https://github.com/BrunoOliveira16/spa-calendario-tarefas#readme"
+}

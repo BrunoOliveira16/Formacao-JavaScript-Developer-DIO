@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+  }
+  .hidden {
+    display: none;
+  }
+  
+  header {
+    width: 100%;
+    background-color: #4791db;
+    height: 56px;
+    display: flex;
+    align-items: center;
+  }
+  
+  header > img {
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+  }
+  
+  nav {
+    margin: 0;
+  }
+  
+  #menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  #menu > li {
+    display: inline;
+    padding: 10px;
+  }
+  
+  #menu > li > a {
+    color: #ffffff;
+    font-size: 1rem;
+    text-decoration: none;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+  }
+  
+  #content {
+    margin: 10px;
+  }

@@ -4,24 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
     <title>SPA</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li>
-                    <a href="/#home">Home</a>
-                </li>
-                <li>
-                    <a href="/#adicionar-tarefas">Adicionar Tarefas</a>
-                </li>
-                <li>
-                    <a href="/#minhas-tarefas">Minhas Tarefas</a>
-                </li>
-            </ul>
-        </nav>
-    </header>
+    <nav class="nav">
+        <a href="/" class="nav-link" data-link>Home</a>
+        <a href="/add" class="nav-link" data-link>Adicionar Tarefa</a>
+        <a href="/about" class="nav-link" data-link>Minhas Tarefas</a>
+    </nav>
 
     <main id="root"></main>
 

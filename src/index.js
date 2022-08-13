@@ -1,12 +1,7 @@
-const container = document.querySelector('#root');
+import home from "./pages/home/main.js";
 
-const renderPage = () => {
-    const page = validatehash(window.location.hash);
-    container.innerHTML = '';
-    container.appendChild(routes[page]);
-}
+const main = document.querySelector('#root');
 
 window.addEventListener('load', ()=> {
-    renderPage();
-    Init();
+    main.appendChild(home());
 });

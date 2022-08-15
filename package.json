@@ -4,7 +4,8 @@
   "description": "O Projeto consiste na criação de um SPA de calendario de tarefas do dia.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/BrunoOliveira16/spa-calendario-tarefas/issues"
   },
-  "homepage": "https://github.com/BrunoOliveira16/spa-calendario-tarefas#readme"
+  "homepage": "https://github.com/BrunoOliveira16/spa-calendario-tarefas#readme",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0",
+    "serve": "^14.0.1"
+  }
 }

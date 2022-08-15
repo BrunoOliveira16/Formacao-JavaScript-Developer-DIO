@@ -1,6 +1,20 @@
 # spa-calendario-tarefas
 O Projeto consiste na criação de um SPA de calendario de tarefas do dia.
 
+# Para Iniciar
+## Instalação
+Para instalar as dependências no diretório do seu projeto execute:
+
+```
+npm install
+```
+
+## Inicie o app
+
+```
+npm start
+```
+
 # Conceitos
 
 - Reutilização de código fonte;

@@ -1,47 +1,87 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto 0 auto;
+  padding: 0;
+  max-width: 1440px;
+}
+
+header, footer {
+  width: 100%; 
+  background-color: rgb(38, 27, 48);
+}
+
 body {
-    margin: 0;
-  }
-  .hidden {
-    display: none;
-  }
-  
-  header {
-    width: 100%;
-    background-color: #4791db;
-    height: 56px;
-    display: flex;
-    align-items: center;
-  }
-  
-  header > img {
-    width: 32px;
-    height: 32px;
-    margin: 10px;
-  }
-  
-  nav {
-    margin: 0;
-  }
-  
-  #menu {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  
-  #menu > li {
-    display: inline;
-    padding: 10px;
-  }
-  
-  #menu > li > a {
-    color: #ffffff;
-    font-size: 1rem;
-    text-decoration: none;
-    font-family: "Lato", sans-serif;
-    font-weight: 700;
-  }
-  
-  #content {
-    margin: 10px;
-  }
+  background-color: rgb(217, 226, 240);
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.nav-item a {
+  font-size: 1.8rem;
+  text-decoration: none;
+  color: white;
+  margin: 20px 30px 20px 30px;
+}
+
+.nav-item a:hover {
+  font-weight: 700;
+}
+
+.text {
+  font-size: 2rem;
+  text-align: center;
+  margin: 30px auto 30px auto;
+  width: 50%;
+}
+
+.input-group {
+  font-size: 1.5rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-group label, input {
+  text-align: left;
+  margin: 5px 0 5px 0;
+}
+
+input {
+  width: 50%;
+  font-size: 1rem;
+  height: 50px;
+  padding-left: 20px;
+}
+
+.button {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.button button {
+  background-color: blue;
+  color: white;
+  height: 50px;
+  width: 30%;
+  margin: 20px auto 20px auto;
+  border-radius: 20px;
+  font-weight: 700;
+}
+
+.button button:hover {
+  opacity: 0.7;
+}
+
+footer {
+  color: white;
+  font-size: 1.3rem;
+  line-height: 2rem;
+  text-align: center;
+  padding: 10px;
+}

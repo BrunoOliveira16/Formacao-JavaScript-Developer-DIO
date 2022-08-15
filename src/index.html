@@ -4,15 +4,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
     <link rel="stylesheet" href="./style.css">
+
     <title>SPA</title>
 </head>
-<body>
-    <nav class="nav">
-        <a href="/" class="nav-link" data-link>Home</a>
-        <a href="/add" class="nav-link" data-link>Adicionar Tarefa</a>
-        <a href="/about" class="nav-link" data-link>Minhas Tarefas</a>
-    </nav>
+<body>   
+    <header>
+        <nav class= "nav-item">
+            <a href="/#">Home</a>
+            <a href="/#add">Adicionar</a>
+            <a href="/#task">Minhas Tarefas</a>
+        </nav>     
+    </header> 
 
     <main id="root"></main>
 
@@ -21,5 +25,7 @@
     </footer>
 
     <script src="index.js" type="module"></script>
+    <script src="./pages/add/script.js"></script>
+
 </body>
 </html>

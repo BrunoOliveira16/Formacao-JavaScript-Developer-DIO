@@ -1,8 +1,8 @@
 class Task {
-    constructor(description, id, tarefa) {
+    constructor(description, id, observation) {
         this.description = description;
         this.id = id;
-        this.tarefa = tarefa;
+        this.observation = observation;
         this.createDate = Date.now();
         this.finishDate = 0;
         this.isDone = false;

@@ -90,3 +90,17 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+#tasks {
+  background-color: rgb(38, 27, 48);
+  margin: 20px auto 20px auto;
+  width: 30%;
+  text-align: center;
+}
+
+#tasks li{
+  list-style: none;
+  font-size: 1.5rem;
+  color: white;
+  padding: 10px 0 10px 0;
+}

@@ -1,33 +1,19 @@
-# spa-calendario-tarefas
-O Projeto consiste na criação de um SPA de calendario de tarefas do dia.
+## 📝 Formação JavaScript Web Developer | DIO._(Digital Innovation One)
 
-# Para Iniciar
-## Instalação
-Para instalar as dependências no diretório do seu projeto execute:
+Este repositório trata-se dos conteúdos da trilha da DIO JavaScript Web Developer (carga horária: 38h)
 
-```
-npm install
-```
+![screenshot](./assets/imagem/JavaScript-developer.png)
 
-## Inicie o app
+## 📚 Descrição
+O Bootcamp consiste em 4 módulos principais, que são:
 
-```
-npm start
-```
+- Aprenda a programar do zero com JavaScript;
+- JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática;
+- Dominando Conceitos Avançados em JavaScript;
+- Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy;
 
-# Conceitos
+## 💡 Objetivo
+Desenvolver habilidades em JavaScript, como conceitos básicos de operadores, funções, classes, orientação a objeto, promisses, boas práticas e consumo de API.
 
-- Reutilização de código fonte;
-- Padrões de projetos;
-- Backend e frontend totalmente isolados;
-- Serviços REST;
-- Escalabilidade;
-- Segurança;
-
-# Funcionalidades
-
-- Cadastro de uma nova tarefa;
-- Edição de tarefa;
-- Remoção de Tarefa;
-- Permitir que o usuário escolha a forma de visualização das tarefas por dia, semana ou mês;
-- Campo de busca de tarefas pelo título;
+## 🙋🏻‍♂️ Autor
+Bruno Oliveira

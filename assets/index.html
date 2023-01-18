@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css">
+
+    <title>SPA</title>
+</head>
+<body>   
+    <header>
+            <nav class= "nav-item">
+                <ul id="menu">
+                    <li><a href="/#home">Lista de Tarefas</a></li>
+                    <li> <a href="/#add">Adicionar Tarefas</a></li>
+                    <li><a href="/#about">Sobre</a> </li>
+                </ul>              
+            </nav>     
+    </header> 
+
+    <main id="content">
+        <section id="home" class="hidden">
+            <h1 class="text">Lista de Tarefas</h1>
+            <ul id="tasks"></ul>
+        </section>
+
+        <section id="add" class="hidden">
+            <h1 class="text">Adicionar Tarefa</h1>
+            <form id="addform" class="input-group">
+                    <label for="Titulo">Titulo</label>
+                    <input type="text" placeholder="Adicionar Titulo" id="Titulo" name="description">
+
+                    <label for="texto">Tarefa</label>
+                    <input type="text" placeholder="Adicionar Tarefa" id="texto" name="observation">
+
+                    <label for="data">Data de Inicio</label>
+                    <input type="date" placeholder="Adicionar Data" id="data">
+
+                    <label for="hora">Hora de Inicio</label>
+                    <input type="time" placeholder="Adicionar Hora 00:00" id="hora">
+
+                    <button type="submit">Enviar dados</button>
+            </form>       
+        </section>
+
+        <section id="about" class="hidden">
+            <h1 class="text">SPA Calendario de Tarefas</h1>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Desenvolvido por Bruno Oliveira</p>
+    </footer>
+
+    <script type="text/javascript" src="./script.js"></script>
+    <script type="text/javascript" src="./index.js"></script>
+    
+
+</body>
+</html>

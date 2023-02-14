@@ -4,5 +4,6 @@
 - Aprendendo Variáveis, Escopo e Tipos de dados no JavaScript
 - Orientação a Protótipo com JavaScript
 - Funções e Manipulação de Listas com JavaScript
+- Promises e Assincronismo com JavaScript
 
 em andamento...

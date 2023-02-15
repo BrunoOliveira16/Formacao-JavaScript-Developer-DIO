@@ -24,9 +24,9 @@ function updateProfileInfo(profileData) {
     site1.innerText = `Meu Linkedin`
     site1.href = profileData.site1
 
-    const github = document.getElementById('profile.github')
-    github.innerText = `Meu GitHub`
-    github.href = profileData.github
+    const site2 = document.getElementById('profile.site2')
+    site2.innerText = `Meu GitHub`
+    site2.href = profileData.site2
 }
 
 (async()=> {

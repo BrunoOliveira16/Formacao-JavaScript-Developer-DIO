@@ -25,6 +25,7 @@
 .header__title {
     font-family: 'Neua Machina-light';
     font-weight: 200;
+    margin: 0;
 }
 
 .header__list {
@@ -36,7 +37,7 @@
     padding: 0;
 }
 
-.header__list--li {
+.header__list--item {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -45,11 +46,11 @@
     font-weight: lighter;
 }
 
-.header__list--li a {
+.header__list--item a {
     color: var(--color-primary);
 }
 
-.header__list--li::before {
+.header__list--item::before {
     display: inline-block;
     width: 1rem;
     height: 1rem;
@@ -57,22 +58,37 @@
     background-repeat: no-repeat;
 }
 
-.header__list--li:nth-child(1)::before {
+.header__list--item:nth-child(1)::before {
     content: '';
     background-image: url(../img/icons/job.svg);  
 }
-.header__list--li:nth-child(2)::before {
+.header__list--item:nth-child(2)::before {
     content: '';
     background-image: url(../img/icons/location.svg);
 }
-.header__list--li:nth-child(3)::before {
+.header__list--item:nth-child(3)::before {
     content: '';
     background-image: url(../img/icons/phone.svg);
 }
-.header__list--li:nth-child(4)::before {
+.header__list--item:nth-child(4)::before {
     content: '';
     background-image: url(../img/icons/email.svg);
 }
+.header__list--item:nth-child(5)::before {
+    content: '';
+    background-image: url(../img/icons/linkedin.svg);
+}
+.header__list--item:nth-child(5):hover {
+    text-decoration: underline;
+}
+.header__list--item:nth-child(6)::before {
+    content: '';
+    background-image: url(../img/icons/github.svg);
+}
+.header__list--item:nth-child(6):hover {
+    text-decoration: underline;
+}
+
 
 @media screen and (min-width: 1020px) {
     .header__title {

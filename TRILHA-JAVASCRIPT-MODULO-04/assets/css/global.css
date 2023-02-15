@@ -34,7 +34,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    padding: 1rem;
+    padding: 2rem 1rem;
     border: 1px solid var(--color-primary);
     border-radius: .8rem;
 }

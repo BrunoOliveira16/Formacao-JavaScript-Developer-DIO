@@ -29,6 +29,16 @@ function updateProfileInfo(profileData) {
     site2.href = profileData.site2
 }
 
+function updateHardSkills(profileData) {
+    const hardSkills = document.getElementById('profile.skills.hardSkills')
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill =>` 
+        <li class="skills__container--tools">
+            <img src="${skill.logo}" alt="Icone do ${skill.name}" title="${skill.name}" class="skills__container--img">
+        </li>
+        `
+    ).join('')
+}
+
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('profile.skills.softSkills')
     softSkills.innerHTML = profileData.skills.softSkills.map(skill =>
@@ -39,6 +49,7 @@ function updateSoftSkills(profileData) {
 (async()=> {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
+    updateHardSkills(profileData)
     updateSoftSkills(profileData)
     console.log(profileData)
 })()

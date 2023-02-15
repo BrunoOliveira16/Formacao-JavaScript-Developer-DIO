@@ -63,3 +63,9 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+@media screen and (min-width: 450px) {
+    .skills__list {
+        flex-direction: row;
+    }
+}

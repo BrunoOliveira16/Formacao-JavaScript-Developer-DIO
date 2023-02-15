@@ -8,6 +8,44 @@
     "site1": "https://www.linkedin.com/in/bruno-oliveira1608/",
     "site2": "https://github.com/BrunoOliveira16",
     "skills": {
+        "hardSkills": [
+            {
+                "name": "HTML",
+                "logo": ""
+            },
+            {
+                "name": "CSS",
+                "logo": ""
+            },
+            {
+                "name": "JavaScript",
+                "logo": ""
+            },
+            {
+                "name": "Sass",
+                "logo": ""
+            },
+            {
+                "name": "Bootstrap",
+                "logo": ""
+            },
+            {
+                "name": "React",
+                "logo": ""
+            },
+            {
+                "name": "Java",
+                "logo": ""
+            },
+            {
+                "name": "MySQL",
+                "logo": ""
+            },
+            {
+                "name": "Figma",
+                "logo": ""
+            }
+        ],
         "softSkills": [
             "Comunicação",
             "Trabalho em equipe",

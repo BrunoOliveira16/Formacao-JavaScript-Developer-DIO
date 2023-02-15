@@ -20,9 +20,9 @@ function updateProfileInfo(profileData) {
     email.innerText = profileData.email
     email.href = `mailto:${profileData.email}`
 
-    const linkedin = document.getElementById('profile.linkedin')
-    linkedin.innerText = `Meu Linkedin`
-    linkedin.href = profileData.linkedin
+    const site1 = document.getElementById('profile.site1')
+    site1.innerText = `Meu Linkedin`
+    site1.href = profileData.site1
 
     const github = document.getElementById('profile.github')
     github.innerText = `Meu GitHub`

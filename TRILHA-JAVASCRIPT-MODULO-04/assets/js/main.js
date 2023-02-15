@@ -68,16 +68,16 @@ function updatePortfolio(profileData) {
 
 function updateExperience(profileData) {
     const professionalExperience = document.getElementById('profile.experience')
-    professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
+    professionalExperience.innerHTML = profileData.experience.map(experience => {
         return `
         <li class="experience__item">
             <h2 class="experience__item--title">${experience.name}</h2>
-            <p class="experience__item--company>${experience.company}</p>
+            <p class="experience__item--company">${experience.company}</p>
             <p class="experience__item--time">${experience.date}</p>
             <p class="experience__item--description">${experience.description}</p> 
         </li>
-        `
-    })
+      `
+    }).join('')
 }
 
 (async()=> {

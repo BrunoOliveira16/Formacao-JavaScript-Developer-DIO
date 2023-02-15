@@ -1,0 +1,60 @@
+.portfolio__content {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.acordeon.open .portfolio__content {
+    display: inline-block;
+    height: auto;
+    opacity: 1;
+}
+
+.portfolio__list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: .5rem 2rem;
+}
+
+.portfolio__item {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.portfolio__item--title {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.portfolio__item--title::before {
+    content: '';
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    margin-right: .5rem;
+    background-image: url(../img/icons/github.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.portfolio__item--link {
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+.portfolio__item--link:hover {
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 441px) {
+    .portfolio__item--title::before {
+        width: 1rem;
+        height: 1rem;
+    }
+}

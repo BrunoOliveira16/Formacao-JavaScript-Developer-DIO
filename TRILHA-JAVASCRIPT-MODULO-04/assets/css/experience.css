@@ -1,0 +1,51 @@
+.experience__content {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.acordeon.open .experience__content {
+    display: inline-block;
+    height: auto;
+    opacity: 1;
+}
+
+.experience__list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: .5rem 2rem;
+}
+
+.experience__item {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.experience__item--title, 
+.experience__item--time, 
+.experience__item--description {
+    margin: 0;
+}
+.experience__item--title {
+    font-size: 1rem;
+}
+
+.experience__item--time {
+    display: flex;
+    align-items: center;
+}
+
+.experience__item--time::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem;
+    background-image: url(../img/icons/calendar.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

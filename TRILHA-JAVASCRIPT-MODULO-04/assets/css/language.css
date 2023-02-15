@@ -1,0 +1,38 @@
+
+.language__content {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.acordeon.open .language__content {
+    display: inline-block;
+    height: auto;
+    opacity: 1;
+}
+
+.language__list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.language__item {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    font-weight: 700;
+}
+
+.language__item::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-image: url(../img/icons/check.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

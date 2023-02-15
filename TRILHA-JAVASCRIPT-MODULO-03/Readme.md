@@ -6,4 +6,3 @@
 - Funções e Manipulação de Listas com JavaScript
 - Promises e Assincronismo com JavaScript
 
-em andamento...

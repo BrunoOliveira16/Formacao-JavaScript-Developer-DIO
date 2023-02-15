@@ -1,6 +1,8 @@
 
 async function fetchProfileData() {
-    const url = '../../data/profile.json'
-    const fetching = await fetch(url)
-    return await fetching.json()
+    const url = 'https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/profile.json';
+    const response = await fetch(url)
+    const profileData = await response.json()
+    return profileData
 }
+

@@ -11,39 +11,39 @@
         "hardSkills": [
             {
                 "name": "HTML",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/html.svg"
             },
             {
                 "name": "CSS",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/css.svg"
             },
             {
                 "name": "JavaScript",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/javascript.svg"
             },
             {
                 "name": "Sass",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/sass.svg"
             },
             {
                 "name": "Bootstrap",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/bootstrap.svg"
             },
             {
                 "name": "React",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/react.svg"
             },
             {
                 "name": "Java",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/java.svg"
             },
             {
                 "name": "MySQL",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/mysql.svg"
             },
             {
                 "name": "Figma",
-                "logo": ""
+                "logo": "https://raw.githubusercontent.com/BrunoOliveira16/Formacao-JavaScript-Web-Developer-DIO/main/TRILHA-JAVASCRIPT-MODULO-04/data/tools/figma.svg"
             }
         ],
         "softSkills": [

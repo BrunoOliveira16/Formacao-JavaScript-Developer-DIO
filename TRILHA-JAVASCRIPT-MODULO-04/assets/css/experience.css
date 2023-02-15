@@ -34,6 +34,11 @@
     font-size: 1rem;
 }
 
+.experience__item--description {
+    line-height: 1.2rem;
+    letter-spacing: 1.2px;
+}
+
 .experience__item--time {
     display: flex;
     align-items: center;

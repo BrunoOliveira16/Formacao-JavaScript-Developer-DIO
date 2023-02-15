@@ -58,5 +58,22 @@
         "Português(Fluente)",
         "Inglês(Intermediário)",
         "Espanhol(Básico)"
+    ],
+    "portfolio": [
+        {
+            "name": "Construção de uma Pokedéx consumindo API",
+            "demo": "https://brunooliveira16.github.io/Bootcamp-inter-orange-tech-frontend/DESAFIO-MODULO-01/index.html",
+            "url": "https://github.com/BrunoOliveira16/Bootcamp-inter-orange-tech-frontend/tree/main/DESAFIO-MODULO-01"
+        },
+        {
+            "name": "Clonando o Site da HBO Max",
+            "demo": "https://brunooliveira16.github.io/Formacao-CSS-Web-Developer-DIO/DESAFIO-CSS-MODULO-03/index.html",
+            "url": "https://github.com/BrunoOliveira16/Formacao-CSS-Web-Developer-DIO/tree/main/DESAFIO-CSS-MODULO-03"
+        },
+        {
+            "name": "Site do Discord Responsivo",
+            "demo": "https://brunooliveira16.github.io/Formacao-CSS-Web-Developer-DIO/DESAFIO-CSS-MODULO-02C/index.html",
+            "url": "https://github.com/BrunoOliveira16/Formacao-CSS-Web-Developer-DIO/tree/main/DESAFIO-CSS-MODULO-02C"
+        }
     ]
 }

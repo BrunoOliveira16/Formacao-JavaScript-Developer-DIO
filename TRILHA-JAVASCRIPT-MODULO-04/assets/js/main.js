@@ -29,9 +29,17 @@ function updateProfileInfo(profileData) {
     site2.href = profileData.site2
 }
 
+function updateSoftSkills(profileData) {
+    const softSkills = document.getElementById('profile.skills.softSkills')
+    softSkills.innerHTML = profileData.skills.softSkills.map(skill =>
+        `<li class="skills__list--item">${skill}</li>`
+    ).join('')
+}
+
 (async()=> {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
+    updateSoftSkills(profileData)
     console.log(profileData)
 })()
 

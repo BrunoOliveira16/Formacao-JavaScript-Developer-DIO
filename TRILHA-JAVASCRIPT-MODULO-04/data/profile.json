@@ -75,5 +75,19 @@
             "demo": "https://brunooliveira16.github.io/Formacao-CSS-Web-Developer-DIO/DESAFIO-CSS-MODULO-02C/index.html",
             "url": "https://github.com/BrunoOliveira16/Formacao-CSS-Web-Developer-DIO/tree/main/DESAFIO-CSS-MODULO-02C"
         }
+    ],
+    "experience": [
+        {
+            "name": "Analista de Manutenção I",
+            "company": "Ternium",
+            "date": "Set 2017 - Jan 2023",
+            "description": "Iniciei como tecnico de manutenção II e fui promovido para analista de manutenção, onde desempenhei tarefas de analise e tratamento de falhas e perfil de perdas, elaboração e apresentação de projetos de redução de custo e implementação do MCM(manutenção de classe mundial) nas áreas operacionais"
+        },
+        {
+            "name": "Tecnico de Manutenção Elétrica II",
+            "company": "ThyssenKrupp CSA",
+            "date": "Ago 2010 - Set 2017",
+            "description": "Iniciei como auxiliar de elétrica e fui promovido até a função de inspetor de manutenção como técnico II, realizei manutenção preventiva, preditiva e corretiva em equipamentos elétricos de grande e pequeno porte, Manutenção em redes industriais (Profibus, Fibra-Óptica e Ethernet), parametrização em inversor de frequência, soft start e programação PLC Siemens S7 e IHM (WinCC), Gestão de custo de manutenção, Analise de falhas utilizando software IBA PDA e Analyzer e utilização de SAP PM e MM"
+        }
     ]
 }

@@ -25,7 +25,8 @@
     gap: .5rem;
 }
 
-.experience__item--title, 
+.experience__item--title,
+.experience__item--company, 
 .experience__item--time, 
 .experience__item--description {
     margin: 0;
@@ -36,7 +37,6 @@
 
 .experience__item--description {
     line-height: 1.2rem;
-    letter-spacing: 1.2px;
 }
 
 .experience__item--time {

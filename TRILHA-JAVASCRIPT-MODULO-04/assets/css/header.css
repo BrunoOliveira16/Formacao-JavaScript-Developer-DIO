@@ -14,6 +14,7 @@
     width: 13rem;
     height: 13rem;
     border-radius: 50%;
+    margin: 1rem auto;
 }
 
 .header__content {    
@@ -100,7 +101,7 @@
         padding-right: 6rem;
     }
 }
-@media screen and (min-width: 620px) {
+@media screen and (min-width: 670px) {
     .header {
         flex-direction: row;
         align-items: center;
@@ -108,5 +109,10 @@
 
     .header__image, .header__content {
         width: 50%;
+    }
+
+    .header__image--img {
+        width: 16rem;
+        height: 16rem;
     }
 }

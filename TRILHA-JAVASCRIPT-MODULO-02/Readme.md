@@ -1,7 +1,10 @@
-## 📝 Formação JavaScript Web Developer | DIO._(Digital Innovation One)
+## 📌 **Modulo 02 - JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática**
 
-## 📝 Projeto Construindo uma Pokedex consumindo a POKEAPI
-Projeto de construção de uma pokedex utilizando HTML/CSS e javascript consumindo informações de uma API externa.
+## 📎 **Sumario**
+- Introdução ao Desenvolvimento Web com JavaScript
+- Criando um Projeto com HTML/CSS para Listagem de Pokémon
+- Dominando o Protocolo HTTP e Integrando com a PokeAPI
+- Desafio de Projeto: Construindo uma Pokédex com JavaScript
 
 
 

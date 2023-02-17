@@ -14,6 +14,8 @@ Dados de entrada:
 Saída:
 98
 */
+
+
 const quantidadeAlunos = gets();
 let  maiorValor = 0;
 
@@ -24,7 +26,6 @@ for(i = 0; i < quantidadeAlunos; i++){
     }
 }
 print(maiorValor);
-
 
 
 /* OUTRA SOLUÇÃO

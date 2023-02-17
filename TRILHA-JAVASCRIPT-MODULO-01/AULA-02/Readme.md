@@ -1,8 +1,8 @@
-## BOOTCAMP INTER ORANGE TECH + FRONT-END - DIO._(Digital Innovation One)
+# 📌 **Aula 02 - Conhecendo funções JavaScript**
 
-## 📝 Modulo 01 - Primeiras páginas interativas com JavaScript
+<br>
 
-### Aula 02 - Conhecendo funções javascript
-#### Aula 02.1 - O Poder das Funções na Qualidade do Seu Código
-
-#### Aula 02.2 - Praticando com Funções
+# 📎 **Sumário**
+## 📘 **Conhecendo funções JavaScript**
+1) O Poder das Funções na Qualidade do Seu Código;
+2) Praticando com Funções;

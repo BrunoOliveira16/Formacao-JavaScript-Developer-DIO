@@ -36,18 +36,18 @@ Bootcamp de formação JavaScript developer da trilha de Front-End da DIO.
     </tr>
     <tr>
         <td>Média Final do Aluno</td>
-        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo01">Código</a></td>
-        <td style="text-align:center; vertical-align: middle">✅</td>
+        <td><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo01" align="center">Código</a></td>
+        <td align="center">✅</td>
     </tr>
     <tr>
         <td>Maior Valor Par e Menor Valor Ímpar</td>
-        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo02">Código</a></td>
-        <td style="text-align:center; vertical-align: middle">✅</td>
+        <td><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo02" align="center">Código</a></td>
+        <td align="center">✅</td>
     </tr>
     <tr>
         <td>Cálculo Salarial</td>
-        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo03">Código</a></td>
-        <td style="text-align:center; vertical-align: middle">✅</td>
+        <td><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo03" align="center">Código</a></td>
+        <td align="center">✅</td>
     </tr>
 </table>
 
@@ -72,15 +72,15 @@ Bootcamp de formação JavaScript developer da trilha de Front-End da DIO.
     </tr>
     <tr>
         <td>Construindo uma Pokédex com JavaScript</td>
-        <td><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO" style="text-align:center">Código</a></td>
-        <td><a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO/index.html" style="text-align:center">Link</a></td>
-        <td style="text-align:center; vertical-align: middle">✅</td>
+        <td align="center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO">Código</a></td>
+        <td align="center"><a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO/index.html">Link</a></td>
+        <td align="center">✅</td>
     </tr>
     <tr>
         <td>Criando um Portfolio Profissional Online</td>
-        <td><a href="#" style="text-align:center">Código</a></td>
-        <td><a href="#" style="text-align:center">Link</a></td>
-        <td style="text-align:center; vertical-align: middle">✅</td>
+        <td align="center"><a href="#">Código</a></td>
+        <td align="center"><a href="#">Link</a></td>
+        <td align="center">✅</td>
     </tr>
 </table>
 

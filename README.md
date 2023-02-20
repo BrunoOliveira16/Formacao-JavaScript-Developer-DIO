@@ -78,8 +78,8 @@ Bootcamp de formação JavaScript developer da trilha de Front-End da DIO.
     </tr>
     <tr>
         <td>Criando um Portfolio Profissional Online</td>
-        <td align="center"><a href="#">Código</a></td>
-        <td align="center"><a href="#">Link</a></td>
+        <td align="center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-04">Código</a></td>
+        <td align="center"><a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-04/index.html">Link</a></td>
         <td align="center">✅</td>
     </tr>
 </table>

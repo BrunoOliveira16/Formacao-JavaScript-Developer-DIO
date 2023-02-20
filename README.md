@@ -72,14 +72,14 @@ Bootcamp de formação JavaScript developer da trilha de Front-End da DIO.
     </tr>
     <tr>
         <td>Construindo uma Pokédex com JavaScript</td>
-        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO">Código</a></td>
-        <td style="text-align:center"><a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO/index.html">Link</a></td>
+        <td><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO" style="text-align:center">Código</a></td>
+        <td><a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO/index.html" style="text-align:center">Link</a></td>
         <td style="text-align:center; vertical-align: middle">✅</td>
     </tr>
     <tr>
         <td>Criando um Portfolio Profissional Online</td>
-        <td style="text-align:center"><a href="#">Código</a></td>
-        <td style="text-align:center"><a href="#">Link</a></td>
+        <td><a href="#" style="text-align:center">Código</a></td>
+        <td><a href="#" style="text-align:center">Link</a></td>
         <td style="text-align:center; vertical-align: middle">✅</td>
     </tr>
 </table>

@@ -19,9 +19,24 @@
     <title>Pokedex - Modulo JavaScript</title>
 </head>
 <body>
-    <section class="content">
-        <h1>Pokedex</h1>
+    <header>
+        <img src="./assets/images/pokeapi_256.png" alt="logo da pokeapi">
+    </header>
 
+    <section class="content">
+        <div class="conteiner-buttons">
+            <button class="button" id="btn_gen_01">1° Geração</button>
+            <button class="button" id="btn_gen_02">2° Geração</button>
+            <button class="button" id="btn_gen_03">3° Geração</button>
+            <button class="button" id="btn_gen_04">4° Geração</button>
+            <button class="button" id="btn_gen_05">5° Geração</button>
+            <button class="button" id="btn_gen_06">6° Geração</button>
+            <button class="button" id="btn_gen_07">7° Geração</button>
+            <button class="button" id="btn_gen_08">8° Geração</button>
+            <!-- <button class="button" id="btn_gen_09">9° Geração</button> em desenvolvimento... -->
+            <button class="button" id="btn_gen_arceus">Arceus</button>
+        </div>
+        
         <ol id="pokemonList" class="pokemons">
             <!-- Renderizar os Pokemons aqui -->
         </ol>
@@ -32,7 +47,7 @@
             </button>
         </div>
     </section>
-
+    
     <!--JavaScript-->
     <script src="./assets/js/pokemon-model.js"></script>
     <script src="./assets/js/poke-api.js"></script>

@@ -1,9 +1,18 @@
-## 📌 **Modulo 01 - Aprenda a Programar do Zero com JavaScript**
+# 📌 **Formação JavaScript Developer**
+## 📝 **Modulo 01 - Aprenda a Programar do Zero com JavaScript**
+
+<br>
+
 ## 📎 **Sumario**
-- Primeiros passos com javascript;
-- Conhecendo funções javascript;
-- Criando objetos e classes em javascript;
-- Arrays e estruturas de repetição em javascript;
-- Importação e Exportação com javascript;
-- Consolide Seu Conhecimento com Desafios de Código JavaScript
-- Desafio de Código - Formação JavaScript Developer
+- **Aula 01:** Primeiros passos com javascript;
+
+- **Aula 02:** Conhecendo funções javascript;
+
+- **Aula 03:** Criando objetos e classes em javascript;
+
+- **Aula 04:** Arrays e estruturas de repetição em javascript;
+
+- **Aula 05:** Importação e Exportação com javascript;
+
+- **Aula 06:** Desafios de Código - Formação JavaScript Developer
+

@@ -1,0 +1,84 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    background: url(../images/Pokeball-wallpaper.jpg);
+    background-attachment: fixed;
+}
+
+body {
+    width: 100%;
+    max-width: 1440px;
+    min-width: 360px;
+    margin: 0 auto !important;
+    background-color: #F6F8FC;
+}
+
+header {
+    width: 100%;
+    padding: 1rem;
+
+    display: flex;
+    justify-content: center;
+
+    background-color: paleturquoise;
+}
+
+.content {
+    height: 100%;
+    padding: 1rem;
+    background-color: #FFFFFF;
+}
+
+.conteiner-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.conteiner-buttons button {
+    padding: .3rem;
+    background-color: #f7cf2e;
+    color: #0f4ad1;
+    border: 2px solid #0f4ad1;
+    box-shadow: 2px 3px 5px #0f4ad1;
+}
+
+.conteiner-buttons button:hover {
+    cursor: pointer;
+    background-color: #0f4ad1;
+    color: #f7cf2e;
+    border: 2px solid #f7cf2e;
+}
+
+.span, .span-value {
+    background: none !important;
+    font-weight: bold;
+}
+.span {
+    margin-right: 0.5rem;
+}
+.span-value {
+    margin-left: 0.5rem;
+}
+
+progress {
+    height: 1.2rem;
+    border-radius: 15px;
+    width: 70%;
+}
+
+/*@media screen and (min-width: 992px){
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}*/
+

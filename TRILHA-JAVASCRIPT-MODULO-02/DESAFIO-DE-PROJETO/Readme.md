@@ -1,9 +1,8 @@
 # 📌 **Formação JavaScript Developer**
 ## 🎯 **Construindo uma Pokédex com JavaScript**
 
-<p align="center">
-    <img src="./assets/images/pokeapi_256.png">
-</p>
+<img src="./assets/images/pokeapi_256.png">
+
 
 
 Projeto de construção de uma pokedex utilizando HTML/CSS e javascript consumindo informações de uma API externa.
@@ -48,7 +47,7 @@ Projeto tem como desafio aplicar os conceitos aprendidos nas aulas do módulo de
 <br>
 
 ## 💻 **Demonstração**
-<h3>Você pode acessar o resultado final do projeto<a href="https://brunooliveira16.github.io/Bootcamp-inter-orange-tech-frontend/DESAFIO-MODULO-01/index.html" target="_blank"> Clicando aqui</a></h3>
+<h3>Você pode acessar o resultado final do projeto<a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO/index.html" target="_blank"> Clicando aqui</a></h3>
 
 <br>
 

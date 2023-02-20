@@ -24,30 +24,30 @@ Bootcamp de formação JavaScript developer da trilha de Front-End da DIO.
 
 <table border=1>
     <tr>
-        <th colspan="3" align="center"><h3 align="center"><b>Formação JavaScript Developer</b></h3></th>
+        <th colspan="3" style="text-align:center"><b>Formação JavaScript Developer</b></th>
     </tr>
     <tr>
-        <th colspan="3"><h3 align="center">Desafios de Código Básico</h3></th>
+        <th colspan="3" style="text-align:center">Desafios de Código Básico</th>
     </tr>
     <tr>
-        <th><p align="center">Desafio</p></th>
-        <th><p align="center">Solução</p></th>
-        <th><p align="center">Status</p></th>
+        <th style="text-align:center">Desafio</th>
+        <th style="text-align:center">Solução</th>
+        <th style="text-align:center">Status</th>
     </tr>
     <tr>
-        <td align="center">Média Final do Aluno</td>
-        <td align="center"><a href="#">Código</a></td>
-        <td align="center">✅</td>
+        <td>Média Final do Aluno</td>
+        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo01">Código</a></td>
+        <td style="text-align:center">✅</td>
     </tr>
     <tr>
-        <td align="center">Maior Valor Par e Menor Valor Ímpar</td>
-        <td align="center"><a href="#">Código</a></td>
-        <td align="center">✅</td>
+        <td>Maior Valor Par e Menor Valor Ímpar</td>
+        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo02">Código</a></td>
+        <td style="text-align:center">✅</td>
     </tr>
     <tr>
-        <td align="center">Cálculo Salarial</td>
-        <td align="center"><a href="#">Código</a></td>
-        <td align="center">✅</td>
+        <td>Cálculo Salarial</td>
+        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-01/DESAFIOS-DE-CODIGO/DesafioDeCodigo03">Código</a></td>
+        <td style="text-align:center">✅</td>
     </tr>
 </table>
 
@@ -59,29 +59,28 @@ Bootcamp de formação JavaScript developer da trilha de Front-End da DIO.
 
 <table border=1>
     <tr>
-        <th colspan="4" align="center"><h3 align="center"><b>Formação JavaScript Developer</b></h3></th>
+        <th colspan="4" style="text-align:center"><b>Formação JavaScript Developer</b></th>
     </tr>
     <tr>
-        <th colspan="4"><h3 align="center">Desafios de Projeto</h3></th>
+        <th colspan="4" style="text-align:center">Desafios de Projeto</th>
     </tr>
     <tr>
-        <th><p align="center">Desafio</p></th>
-        <th><p align="center">Solução</p></th>
-        <th><p align="center">Deploy</p></th>
-        <th><p align="center">Status</p></th>
+        <th style="text-align:center">Desafio</th>
+        <th style="text-align:center">Solução</th>
+        <th style="text-align:center">Deploy</th>
+        <th style="text-align:center">Status</th>
     </tr>
     <tr>
-        <td align="center">
-Construindo uma Pokédex com JavaScript</td>
-        <td align="center"><a href="#">Código</a></td>
-        <td align="center"><a href="#">Link</a></td>
-        <td align="center">✅</td>
+        <td>Construindo uma Pokédex com JavaScript</td>
+        <td style="text-align:center"><a href="https://github.com/BrunoOliveira16/Formacao-JavaScript-Developer-DIO/tree/main/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO">Código</a></td>
+        <td style="text-align:center"><a href="https://brunooliveira16.github.io/Formacao-JavaScript-Developer-DIO/TRILHA-JAVASCRIPT-MODULO-02/DESAFIO-DE-PROJETO/index.html">Link</a></td>
+        <td style="text-align:center">✅</td>
     </tr>
     <tr>
-        <td align="center">Portfolio Profissional Online</td>
-        <td align="center"><a href="#">Código</a></td>
-        <td align="center"><a href="#">Link</a></td>
-        <td align="center">✅</td>
+        <td>Criando um Portfolio Profissional Online</td>
+        <td style="text-align:center"><a href="#">Código</a></td>
+        <td style="text-align:center"><a href="#">Link</a></td>
+        <td style="text-align:center">✅</td>
     </tr>
 </table>
 

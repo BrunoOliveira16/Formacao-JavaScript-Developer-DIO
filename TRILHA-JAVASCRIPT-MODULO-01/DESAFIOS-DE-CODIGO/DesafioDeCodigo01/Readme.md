@@ -23,8 +23,8 @@ Para cada arquivo da entrada, terá um arquivo de saída. E como mencionado no D
 
 ## **Exemplo**
 
-| <h3 align="center"><b>Entrada</h3> | <h3 align="center"><b>Saída</h3> |
+| <h3 style="text-align:center"><b>Entrada</h3> | <h3 style="text-align:center"><b>Saída</h3> |
 | --- | --- |
-| <h4 align="center"><b>5.5</h4> | <h4 align="center"><b>REC</h4>  |
-| <h4 align="center"><b>8</h4> | <h4 align="center"><b>APR</h4>  |
-| <h4 align="center"><b>2</h4> | <h4 align="center"><b>REP</h4>  |
+| <h4 style="text-align:center"><b>5.5</h4> | <h4 style="text-align:center"><b>REC</h4>  |
+| <h4 style="text-align:center"><b>8</h4> | <h4 style="text-align:center"><b>APR</h4>  |
+| <h4 style="text-align:center"><b>2</h4> | <h4 style="text-align:center"><b>REP</h4>  |
